@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Weather Agent project
+.env.*
+!.env.example
+data/*
+!data/sample_forecast.csv
+!data/.gitkeep
